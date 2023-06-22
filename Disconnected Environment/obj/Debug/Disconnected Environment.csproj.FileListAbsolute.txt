@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.Form1.resources
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.Form2.resources
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.FormDataMahasiswa.resources
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.Form4.resources
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.Properties.Resources.resources
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\bin\Debug\Disconnected Environment.exe.config
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\bin\Debug\Disconnected Environment.exe
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\bin\Debug\Disconnected Environment.pdb
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.exe
+C:\Users\LEGION\source\repos\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.pdb
